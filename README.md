@@ -29,7 +29,7 @@
    cd restart-my-modem
 3. Install the required Python libraries:
    ```bash
-   pip install -r requirements.txt
+   pip install requests
 4. Run the application:
     ```bash
    python restart_my_modem.py
